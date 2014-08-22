@@ -35,3 +35,4 @@ Go语言学习资源汇总
 - [Golang中国](http://golangtc.com/)
 - [Golang中国博客](http://blog.go-china.org/)
 - [Study Golang](http://studygolang.com/)
+- [知乎话题：Go语言](http://www.zhihu.com/topic/19625982)
